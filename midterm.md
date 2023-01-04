@@ -82,6 +82,9 @@ print(max_value)  # 輸出 22
 ------
 ## 參考資料
 http://www.derf.net/knapsack/#KnapNP
+
 https://stackoverflow.com/questions/3907545/how-to-understand-the-knapsack-problem-is-np-complete
+
 https://www.zhihu.com/question/20686504
+
 https://web.ntnu.edu.tw/~algo/KnapsackProblem.html
