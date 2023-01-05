@@ -1,5 +1,5 @@
 # Bellman–Ford演算法
-參考自維基百科並修改，100%理解
+主要參考自維基百科並修改，100%理解
 ## 一、簡介
 &emsp;&emsp;求解單源最短路徑問題的一種演算法。
 其優於dijkstra algorithm演算法的方面是邊的權值可以為負數、實現簡單，缺點是時間複雜度過高，高達O(|V||E|)。
@@ -87,4 +87,6 @@ int SPFA(int s) {
 ```
 
 ### 參考資料
-&emsp;&emsp;維基百科
+[維基百科](https://zh.wikipedia.org/zh-tw/%E8%B4%9D%E5%B0%94%E6%9B%BC-%E7%A6%8F%E7%89%B9%E7%AE%97%E6%B3%95)
+
+https://ithelp.ithome.com.tw/articles/10209748
